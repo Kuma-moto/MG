@@ -1,0 +1,5 @@
+carla==0.9.13
+pygame
+numpy
+pandas
+opencv-python
